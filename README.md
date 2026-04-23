@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27021323/README.md)
-# DS-01-Iris-Flower-Classification
 ---
 title: Iris Species Classifier
 emoji: 🌸
